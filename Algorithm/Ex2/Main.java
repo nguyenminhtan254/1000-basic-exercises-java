@@ -1,5 +1,5 @@
 
-package AlgorithmFlowchart.Ex2;
+package Algorithm.Ex2;
 
 import java.util.Scanner;
 
